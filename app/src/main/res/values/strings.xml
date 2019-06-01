@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="ItemName">Nombre</string>
+    <string name="ItemQuantity">Cantidad</string>
+    <string name="FormHeader">Información del Artículo</string>
+    <string name="btnSaveForm">Guardar</string>
+    <string name="btnUpdateForm">Actualizar</string>
+</resources>
